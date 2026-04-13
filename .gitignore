@@ -1,0 +1,9 @@
+data/raw/ 
+data/processed/ 
+sample_pack/ 
+*.npy 
+*.npz 
+*.edf 
+*.dat 
+*.hea 
+__pycache__/ 
